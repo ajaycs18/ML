@@ -1,0 +1,4 @@
+temp,time,is_holiday,result
+hot,afternoon,yes,True
+hot,morning,no,False
+cold,afternoon,yes,True
